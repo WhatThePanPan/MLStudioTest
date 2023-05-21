@@ -1,3 +1,3 @@
 function Backtomenu() {
-    window.location.href = 'Menu.html';
+    window.location.href = 'index.html';
 }
